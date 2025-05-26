@@ -1,7 +1,7 @@
-// js code commented out for now
-
-// import AOS from "aos";
+//js code commented out for now
 // import "aos/dist/aos.css";
+// import AOS from "aos";
+
 
 // // init AOS animation
 // AOS.init({
