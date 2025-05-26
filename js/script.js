@@ -1,3 +1,5 @@
+// js code commented out for now
+
 // import AOS from "aos";
 // import "aos/dist/aos.css";
 
